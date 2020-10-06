@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	background-color:aquamarine;
+}
+.grid{
+	display: grid;
+	grid-template-columns: 70% 30%;
+	grid-gap:1em;
+	
+}
